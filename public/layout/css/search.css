@@ -1,0 +1,80 @@
+header>.navigation {
+    position: relative;
+}
+
+.footer {
+    margin-top: auto;
+}
+
+.result .inform {
+    width: 100%;
+    height: 120px;
+    background: #878787;
+    color: #fff;
+}
+
+.result-product {
+    width: 100%;
+    padding: 50px 100px;
+}
+
+.result-product>.product {
+    margin-bottom: 50px;
+    border: 1px solid rgba(158, 154, 154,.2);
+    padding: 25px 20px;
+}
+
+.result-product>.product>.img>a {
+    display: block;
+    width: 160px;
+    height: 200px;
+}
+
+.result-product>.product>.img>a>img {
+    width: 100%;
+    height: 100%;
+}
+
+.info-inner {
+    width: 85%;
+    padding: 0 20px;
+}
+
+.pr-name {
+    color: #000;
+    text-transform: uppercase;
+}
+
+.pr-cost,
+.pr-description {
+    color: #999;
+}
+.info-btn{
+    width: 15;
+}
+
+.info-btn .bt {
+    padding: 7px 30px;
+    border-radius: 50px;
+    margin: 10px 0;
+}
+
+.info-btn .bt-view {
+    border: 1px solid #007e91;
+    color: #007e91;
+}
+
+.info-btn .bt-view:hover {
+    background: #007e91;
+    color: #fff;
+}
+
+.info-btn .bt-add {
+    background: #007e91;
+    color: #fff;
+}
+
+.info-btn .bt-add:hover {
+    border: 1px solid #007e91;
+    color: #007e91;
+}
